@@ -1,0 +1,103 @@
+{
+  "appid": 730,
+  "name": "Counter-Strike 2",
+  "state": "eStateAvailable",
+  "installdir": "counter_strike_2",
+  "size": 35710526510,
+  "bytes_downloaded": 0,
+  "bytes_staged": 0,
+  "bytes_to_download": 0,
+  "bytes_to_stage": 0,
+  "target_build_id": 444619,
+  "user": {
+    "gamestats": {
+      "ingame": false,
+      "seconds": 0
+    }
+  },
+  "manifest": {
+    "gid": 8394970380416447000,
+    "size": 25930202,
+    "download_size": 43702319211,
+    "time_updated": 1788181137,
+    "time_created": 1788094737,
+    "encrypted_gid": "7480ed1520a5f400",
+    "decrypt_key": "",
+    "filenames": [
+      "counter_strike_2.exe",
+      "steam_api.dll",
+      "game_data.bin"
+    ],
+    "filesha": [
+      "a1b2c3d4e5f6789012345678901234567890abcd",
+      "f1e2d3c4b5a6978012345678901234567890efgh",
+      "9a8b7c6d5e4f321001234567890123456789ijkl"
+    ]
+  },
+  "depot": {
+    "228980": {
+      "name": "Windows",
+      "config": {
+        "oslist": "windows",
+        "language": "english",
+        "osarch": "64"
+      },
+      "manifest": {
+        "gid": 8394970380416447000,
+        "size": 10443729118,
+        "download_size": 49361296146,
+        "time_updated": 1788181137,
+        "time_created": 1788094737,
+        "encrypted_gid": "7480ed1520a5f400",
+        "decrypt_key": ""
+      },
+      "dlcappid": []
+    },
+    "228982": {
+      "name": "Linux",
+      "config": {
+        "oslist": "linux",
+        "language": "english",
+        "osarch": "64"
+      },
+      "manifest": {
+        "gid": 7348658454716611000,
+        "size": 38655625046,
+        "download_size": 6767753204,
+        "time_updated": 1788181137,
+        "time_created": 1788094737,
+        "encrypted_gid": "4ada7e9236c6c400",
+        "decrypt_key": ""
+      },
+      "dlcappid": []
+    }
+  },
+  "userconfig": {
+    "gameid": 730,
+    "name": "Counter-Strike 2",
+    "language": "english",
+    "beta": "",
+    "gamestats": {
+      "ingame": false,
+      "seconds": 0
+    }
+  },
+  "platforms": {
+    "windows": true,
+    "mac": false,
+    "linux": true
+  },
+  "required_appid": [],
+  "launch": [
+    {
+      "type": "default",
+      "config": {
+        "oslist": "windows"
+      },
+      "executable": "counter_strike_2.exe",
+      "arguments": "",
+      "workingdir": "",
+      "description": "Launch Game"
+    }
+  ]
+}
