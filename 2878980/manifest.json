@@ -1,0 +1,85 @@
+{
+  "appid": 2878980,
+  "name": "NBA 2K25",
+  "state": "eStateAvailable",
+  "installdir": "nba_2k25",
+  "size": 14369112754,
+  "bytes_downloaded": 0,
+  "bytes_staged": 0,
+  "bytes_to_download": 0,
+  "bytes_to_stage": 0,
+  "target_build_id": 634552,
+  "user": {
+    "gamestats": {
+      "ingame": false,
+      "seconds": 0
+    }
+  },
+  "manifest": {
+    "gid": 2720308828681643000,
+    "size": 34009046,
+    "download_size": 28728281101,
+    "time_updated": 1788201421,
+    "time_created": 1788115021,
+    "encrypted_gid": "25c07a7784eda400",
+    "decrypt_key": "",
+    "filenames": [
+      "nba_2k25.exe",
+      "steam_api.dll",
+      "game_data.bin"
+    ],
+    "filesha": [
+      "a1b2c3d4e5f6789012345678901234567890abcd",
+      "f1e2d3c4b5a6978012345678901234567890efgh",
+      "9a8b7c6d5e4f321001234567890123456789ijkl"
+    ]
+  },
+  "depot": {
+    "228980": {
+      "name": "Windows",
+      "config": {
+        "oslist": "windows",
+        "language": "english",
+        "osarch": "64"
+      },
+      "manifest": {
+        "gid": 2720308828681643000,
+        "size": 24073432952,
+        "download_size": 22936270863,
+        "time_updated": 1788201421,
+        "time_created": 1788115021,
+        "encrypted_gid": "25c07a7784eda400",
+        "decrypt_key": ""
+      },
+      "dlcappid": []
+    }
+  },
+  "userconfig": {
+    "gameid": 2878980,
+    "name": "NBA 2K25",
+    "language": "english",
+    "beta": "",
+    "gamestats": {
+      "ingame": false,
+      "seconds": 0
+    }
+  },
+  "platforms": {
+    "windows": true,
+    "mac": false,
+    "linux": false
+  },
+  "required_appid": [],
+  "launch": [
+    {
+      "type": "default",
+      "config": {
+        "oslist": "windows"
+      },
+      "executable": "nba_2k25.exe",
+      "arguments": "",
+      "workingdir": "",
+      "description": "Launch Game"
+    }
+  ]
+}
