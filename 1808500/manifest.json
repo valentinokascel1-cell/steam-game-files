@@ -1,0 +1,85 @@
+{
+  "appid": 1808500,
+  "name": "ARC Raiders",
+  "state": "eStateAvailable",
+  "installdir": "arc_raiders",
+  "size": 12296056352,
+  "bytes_downloaded": 0,
+  "bytes_staged": 0,
+  "bytes_to_download": 0,
+  "bytes_to_stage": 0,
+  "target_build_id": 962484,
+  "user": {
+    "gamestats": {
+      "ingame": false,
+      "seconds": 0
+    }
+  },
+  "manifest": {
+    "gid": 1372280166867989200,
+    "size": 6248519,
+    "download_size": 44442755444,
+    "time_updated": 1788208636,
+    "time_created": 1788122236,
+    "encrypted_gid": "130b518a867af300",
+    "decrypt_key": "",
+    "filenames": [
+      "arc_raiders.exe",
+      "steam_api.dll",
+      "game_data.bin"
+    ],
+    "filesha": [
+      "a1b2c3d4e5f6789012345678901234567890abcd",
+      "f1e2d3c4b5a6978012345678901234567890efgh",
+      "9a8b7c6d5e4f321001234567890123456789ijkl"
+    ]
+  },
+  "depot": {
+    "228980": {
+      "name": "Windows",
+      "config": {
+        "oslist": "windows",
+        "language": "english",
+        "osarch": "64"
+      },
+      "manifest": {
+        "gid": 1372280166867989200,
+        "size": 32786545779,
+        "download_size": 14806553054,
+        "time_updated": 1788208636,
+        "time_created": 1788122236,
+        "encrypted_gid": "130b518a867af300",
+        "decrypt_key": ""
+      },
+      "dlcappid": []
+    }
+  },
+  "userconfig": {
+    "gameid": 1808500,
+    "name": "ARC Raiders",
+    "language": "english",
+    "beta": "",
+    "gamestats": {
+      "ingame": false,
+      "seconds": 0
+    }
+  },
+  "platforms": {
+    "windows": true,
+    "mac": false,
+    "linux": false
+  },
+  "required_appid": [],
+  "launch": [
+    {
+      "type": "default",
+      "config": {
+        "oslist": "windows"
+      },
+      "executable": "arc_raiders.exe",
+      "arguments": "",
+      "workingdir": "",
+      "description": "Launch Game"
+    }
+  ]
+}
