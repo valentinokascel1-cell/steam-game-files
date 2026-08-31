@@ -1,0 +1,85 @@
+{
+  "appid": 100001,
+  "name": "Unknown App 100001",
+  "state": "eStateAvailable",
+  "installdir": "unknown_app_100001",
+  "size": 49430550456,
+  "bytes_downloaded": 0,
+  "bytes_staged": 0,
+  "bytes_to_download": 0,
+  "bytes_to_stage": 0,
+  "target_build_id": 774203,
+  "user": {
+    "gamestats": {
+      "ingame": false,
+      "seconds": 0
+    }
+  },
+  "manifest": {
+    "gid": 3507962853907994000,
+    "size": 68877231,
+    "download_size": 30921929608,
+    "time_updated": 1788186776,
+    "time_created": 1788100376,
+    "encrypted_gid": "30aec9a130739600",
+    "decrypt_key": "",
+    "filenames": [
+      "unknown_app_100001.exe",
+      "steam_api.dll",
+      "game_data.bin"
+    ],
+    "filesha": [
+      "a1b2c3d4e5f6789012345678901234567890abcd",
+      "f1e2d3c4b5a6978012345678901234567890efgh",
+      "9a8b7c6d5e4f321001234567890123456789ijkl"
+    ]
+  },
+  "depot": {
+    "228980": {
+      "name": "Windows",
+      "config": {
+        "oslist": "windows",
+        "language": "english",
+        "osarch": "64"
+      },
+      "manifest": {
+        "gid": 3507962853907994000,
+        "size": 10667587409,
+        "download_size": 8589230281,
+        "time_updated": 1788186776,
+        "time_created": 1788100376,
+        "encrypted_gid": "30aec9a130739600",
+        "decrypt_key": ""
+      },
+      "dlcappid": []
+    }
+  },
+  "userconfig": {
+    "gameid": 100001,
+    "name": "Unknown App 100001",
+    "language": "english",
+    "beta": "",
+    "gamestats": {
+      "ingame": false,
+      "seconds": 0
+    }
+  },
+  "platforms": {
+    "windows": true,
+    "mac": false,
+    "linux": false
+  },
+  "required_appid": [],
+  "launch": [
+    {
+      "type": "default",
+      "config": {
+        "oslist": "windows"
+      },
+      "executable": "unknown_app_100001.exe",
+      "arguments": "",
+      "workingdir": "",
+      "description": "Launch Game"
+    }
+  ]
+}
