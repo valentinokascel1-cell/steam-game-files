@@ -3,12 +3,12 @@
   "name": "Counter-Strike",
   "state": "eStateAvailable",
   "installdir": "counter_strike",
-  "size": 24619966989,
+  "size": 19943360165,
   "bytes_downloaded": 0,
   "bytes_staged": 0,
   "bytes_to_download": 0,
   "bytes_to_stage": 0,
-  "target_build_id": 310382,
+  "target_build_id": 727739,
   "user": {
     "gamestats": {
       "ingame": false,
@@ -16,12 +16,12 @@
     }
   },
   "manifest": {
-    "gid": 6719590480127767000,
-    "size": 95561358,
-    "download_size": 7483672089,
-    "time_updated": 1788181226,
-    "time_created": 1788094826,
-    "encrypted_gid": "5d40c7f0941cb000",
+    "gid": 6680136640300156000,
+    "size": 78020217,
+    "download_size": 1010512160,
+    "time_updated": 1788221558,
+    "time_created": 1788135158,
+    "encrypted_gid": "5cb49ce1a8298400",
     "decrypt_key": "",
     "filenames": [
       "counter_strike.exe",
@@ -43,12 +43,12 @@
         "osarch": "64"
       },
       "manifest": {
-        "gid": 6719590480127767000,
-        "size": 34823606326,
-        "download_size": 12592529510,
-        "time_updated": 1788181226,
-        "time_created": 1788094826,
-        "encrypted_gid": "5d40c7f0941cb000",
+        "gid": 6680136640300156000,
+        "size": 37656966771,
+        "download_size": 43395713243,
+        "time_updated": 1788221558,
+        "time_created": 1788135158,
+        "encrypted_gid": "5cb49ce1a8298400",
         "decrypt_key": ""
       },
       "dlcappid": []
@@ -61,12 +61,12 @@
         "osarch": "64"
       },
       "manifest": {
-        "gid": 1975123046031979000,
-        "size": 26473216980,
-        "download_size": 23594540810,
-        "time_updated": 1788181226,
-        "time_created": 1788094826,
-        "encrypted_gid": "51c792d18f966400",
+        "gid": 7686414331678621000,
+        "size": 48618386636,
+        "download_size": 24759855058,
+        "time_updated": 1788221558,
+        "time_created": 1788135158,
+        "encrypted_gid": "48e5716a09073800",
         "decrypt_key": ""
       },
       "dlcappid": []
@@ -79,12 +79,12 @@
         "osarch": "64"
       },
       "manifest": {
-        "gid": 8645517849281851000,
-        "size": 20756157497,
-        "download_size": 5854390875,
-        "time_updated": 1788181226,
-        "time_created": 1788094826,
-        "encrypted_gid": "74591eb848558800",
+        "gid": 9461429537271312000,
+        "size": 6109551978,
+        "download_size": 27913680957,
+        "time_updated": 1788221558,
+        "time_created": 1788135158,
+        "encrypted_gid": "246e5b7b30990400",
         "decrypt_key": ""
       },
       "dlcappid": []
